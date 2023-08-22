@@ -1,4 +1,4 @@
-- Hello, my name is Tanisha Gottemukula and I am a Senior in High School on my programming journey  🙇‍♀️
+- Hello, my name is Tanisha Gottemukula and I am a Senior in High School working on my programming journey  🙇‍♀️
 - I am interested in Web Development and am currently working toward becoming a Full Stack Dev 🏅
 - Feel free to reach out to me on LinkedIn 📫 
 
