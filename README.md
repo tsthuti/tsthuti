@@ -1,6 +1,6 @@
 # hi there! 👋
 
-my name is tanisha and i am a first-year student in the computing and financial management program @ the university of waterloo! 📚
+my name is tanisha and i am a first-year student in the computing and financial management (cs + finance double major) program @ the university of waterloo! 📚
 - i am currently working on perfecting my full-stack development skills 👩‍💻
 - on the lookout for summer 2025 internship opportunities 👀
 
