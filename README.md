@@ -9,7 +9,7 @@
 </h1>
 
 i'm `tanisha`! ⭐️
-- currently a first-year student in computing and financial management @ the university of waterloo. 
+- currently a first-year student studying computer science + finance @ the university of waterloo. 
 - always looking for opportunities to build something cool. 
 - feel free to reach out to me on <a href="https://www.linkedin.com/in/tanisha-gottemukula-656b64238/">linkedin</a>! 
 
