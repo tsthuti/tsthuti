@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=8162843069285875" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+  
 </div>
 
 <h1 align="left" >
