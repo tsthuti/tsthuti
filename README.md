@@ -1,12 +1,10 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/9c/08/c0/9c08c09ff291829ee19eb04e08049b43.gif" width="700"/>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=8162843069285875" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 </div>
 
-<h1 align="center" >
+<h1 align="left" >
   hey there! 👋
 </h1>
-
-## 🌟 about me 
 
 i'm `tanisha`!
 - currently a first-year student in computing and financial management @ the university of waterloo. 
