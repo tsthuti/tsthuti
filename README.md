@@ -13,7 +13,7 @@ i'm `tanisha`! ⭐️
 - always looking for opportunities to build something cool. 
 - feel free to reach out to me on <a href="https://www.linkedin.com/in/tanisha-gottemukula-656b64238/">linkedin</a>! 
 
-## :woman_cook: current skillset 
+## 🎀: current skillset 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
