@@ -1,5 +1,8 @@
 <!--maybe add an image or gif here in the future-->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1pYnFxZDdhODU4cHpmdjZqM2NsbTR4b3V2d2I4NXphNnJ3ZW45NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg3TIM9K8genD3K27D/giphy.gif"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1pYnFxZDdhODU4cHpmdjZqM2NsbTR4b3V2d2I4NXphNnJ3ZW45NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kg3TIM9K8genD3K27D/giphy.gif"
+      width=800px/>
+</div>
 
 <h1 align="left" >
   hey there! 👋
