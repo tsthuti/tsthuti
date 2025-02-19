@@ -4,7 +4,7 @@
   hey there! 👋
 </h1>
 
-i'm `tanisha`! :white_flower:
+i'm `tanisha`! ⭐️
 - currently a first-year student in computing and financial management @ the university of waterloo. 
 - always looking for opportunities to build something cool. 
 - feel free to reach out to me on linkedin @ tanisha gottemukula! 
