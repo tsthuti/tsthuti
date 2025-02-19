@@ -6,14 +6,14 @@
   hey there! 👋
 </h1>
 
-## 🌟: about me :
+## 🌟 about me 
 
 i'm `tanisha`!
 - currently a first-year student in computing and financial management @ the university of waterloo. 
 - always looking for opportunities to build something cool. 
 - feel free to reach out to me on linkedin @ tanisha gottemukula! 
 
-## :woman_cook: current skillset 👩‍🍳 :
+## :woman_cook: current skillset 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
