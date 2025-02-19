@@ -2,43 +2,18 @@
   <img src="https://i.pinimg.com/originals/9c/08/c0/9c08c09ff291829ee19eb04e08049b43.gif" width="700"/>
 </div>
 
-<div id="badges" align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/yi-jia-huang/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/jia.jiah_/">
-      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://discordapp.com/users/imjia">
-      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=jiahjiah&style=flat-square&color=blue" alt="" align="center"/>
-
-</div>
-
 <h1 align="center" >
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there! 👋
 </h1>
 
-## :woman_technologist: About Me :
+## 🌟: about me :
 
-i'm `jia`!
-- 🌱 I’m currently learning web development with React!
-- ⚡ I love scrapbooking and reading manhwas in my spare time :)
-- 😄 Pronouns: she/her
+i'm `tanisha`!
+- currently a first-year student in computing and financial management @ the university of waterloo. 
+- always looking for opportunities to build something cool. 
+- feel free to reach out to me on linkedin @ tanisha gottemukula! 
 
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
-## :hammer_and_wrench: current skillset 👩‍🍳 :
+## :woman_cook: current skillset 👩‍🍳 :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
