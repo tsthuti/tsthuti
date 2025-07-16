@@ -5,15 +5,15 @@
 </div>
 
 <h1 align="left" >
-  hey there! 👋
+  hey there, nice to see you! ⋆｡𖦹°⭒˚｡⋆
 </h1>
 
-i'm `tanisha`! ⭐️
+`my name is tanisha`! ⭐️
 - currently a first-year student studying computer science + finance @ the university of waterloo. 
 - always looking for opportunities to build something cool. 
 - feel free to reach out to me on <a href="https://www.linkedin.com/in/tanisha-gottemukula-656b64238/">linkedin</a>! 
 
-## 🎀 current skillset 
+## current skillset ⋅˚₊‧ 𐙚 ‧₊˚ ⋅
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,4 +29,8 @@ i'm `tanisha`! ⭐️
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/docker-plain.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/docker-plain.svg" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
+  
 </div>
